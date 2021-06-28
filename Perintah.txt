@@ -1,0 +1,98 @@
+1+2
+1+6*8
+3-8/2
+
+(1-4)*4
+-1
+----5
+-7*9+1
+
+10/0
+
+3^3
+
+Sajak t=5
+Sajak t= Sajak p=7
+2 + (Sajak t= 7)
+
+5==5 
+6==3
+5+4 == 7+2
+3==3 Dan 1==1
+3<1
+
+Ketika 5==5 Maka 77
+Ketika 5==7 Maka 77
+Ketika 5==7 Maka 77 Lain 23
+
+Sajak umur = 17
+Sajak harga = Ketika umur >= 16 Maka 4000 Lain 2000
+
+Sajak t = 1
+Untuk p = 1 Ke 6 Maka Sajak t = t * p
+t
+Sajak t = 1
+Untuk p = 5 Ke 0 Langkah -1 Maka Sajak t = t*p
+t
+
+Sajak t=0
+Sedangkan t < 1000 Maka Sajak t=t+1
+t
+
+"Sajak tak bermakna"
+"Sajak" + "bermakna"
+"Kamu" * 2
+Fungsi ucapan(nama, sapaan) -> "Hai, " * sapaan + nama
+ucapan("Kamu Cantik", 3)
+
+[7, 3, 2]
+[7, 3, 2] + 9
+[7, 3, 2] * [7, 3, 2]
+[1, 2, 3]/0
+Untuk t = 1 Ke 9 Maka 2 ^ t
+
+NULL
+MATH_PI
+Sajakku("Ketika dia menyapa :)")
+Sajakku(["Andai " + "kau " + "datang"])
+Sajak nama = Masukkan()
+nama
+Sajak umur = Masukkan_INT()
+umur
+
+Tinggal_Kenangan()
+CLS()
+
+Engkau_NUM(778)
+Engkau_STR("Kita")
+Engkau_LIST([])
+Engkau_FUN(PRINT)
+
+Sajak t = [4, 7, 3]
+Tambahkan( t, 9)
+t
+Keluarkan(t, 7)
+t
+Gabung(t, [1, 2, 3]
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
